@@ -17,6 +17,7 @@ opencv-python	: Pengolahan gambar dan augmentasi
 
 # 🚀 Cara Penggunaan
 1. Persiapan Dataset
+ - Download dataset: https://drive.google.com/file/d/1K0zPAe1JGAltRG0gCdeXWuVJJ_tIrDxR/view
  - Dataset berbentuk file ZIP yang berisi gambar tumor otak harus diunggah ke Google Drive.
  - File ZIP diekstrak ke direktori kerja di Google Colab.
  - Dataset terdiri dari beberapa folder yang berisi gambar untuk masing-masing kelas tumor.
